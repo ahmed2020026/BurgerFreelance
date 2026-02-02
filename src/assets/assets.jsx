@@ -1,6 +1,4 @@
 
-import LOGO_Brand from './ProductTesting.jpg'
-
 import logo_image from './Logo.png'
 import Average_image from './Average.webp'
 import cooked_image from './cooked.webp'
@@ -463,15 +461,7 @@ export const Burgers = [
         price: "2,00 €",
         image: burger_43,
         category: "drinks",
-    },
-    {
-        id: 44,
-        name: "Logo",
-        description: "Brand",
-        price: "250,00 €",
-        image: LOGO_Brand,
-        category: "drinks",
-   }
+    }
 
 ];
 
