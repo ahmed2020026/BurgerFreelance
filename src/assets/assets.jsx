@@ -1,5 +1,5 @@
 ===
-import LOGO from './ProductTesting.jpg'
+import LOGO_Brand from './ProductTesting.jpg'
 ===
 import logo_image from './Logo.png'
 import Average_image from './Average.webp'
@@ -469,7 +469,7 @@ export const Burgers = [
         name: "Logo",
         description: "Brand",
         price: "250,00 €",
-        image: LOGO ,
+        image: LOGO_Brand,
         category: "drinks",
    }
 
