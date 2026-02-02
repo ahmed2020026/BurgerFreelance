@@ -1,5 +1,5 @@
 ===
-import LOGO from './logo.jpg'
+import LOGO from './ProductTesting.jpg'
 ===
 import logo_image from './Logo.png'
 import Average_image from './Average.webp'
