@@ -1,6 +1,6 @@
-===
+
 import LOGO_Brand from './ProductTesting.jpg'
-===
+
 import logo_image from './Logo.png'
 import Average_image from './Average.webp'
 import cooked_image from './cooked.webp'
