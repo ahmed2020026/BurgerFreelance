@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.container{
+    @apply container mx-auto relative
+}
+.section{
+    @apply min-h-screen
+}
+.text-orange{
+    @apply text-[#ed8f0e];
+}
